@@ -1,2 +1,2 @@
 # UnlockingCyber-1003
-Cybersecurity Labs that involved exploring Linux
+Cybersecurity Labs that involved exploring Linux and creating scripts
